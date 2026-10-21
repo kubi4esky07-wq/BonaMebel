@@ -1,0 +1,316 @@
+{
+  "lastSync": "2026-10-21T19:35:33.689Z",
+  "syncIntervalMinutes": 60,
+  "sourceUrl": "https://vk.ru/drozdova_natasha",
+  "ownerId": "137592086",
+  "categories": [
+    {
+      "id": "all",
+      "name": "Все работы",
+      "icon": "grid"
+    },
+    {
+      "id": "kitchen",
+      "name": "Кухни",
+      "icon": "utensils"
+    },
+    {
+      "id": "wardrobe",
+      "name": "Шкафы-купе",
+      "icon": "layers"
+    },
+    {
+      "id": "hallway",
+      "name": "Прихожие",
+      "icon": "door-open"
+    },
+    {
+      "id": "kids",
+      "name": "Детские & Спальни",
+      "icon": "bed"
+    },
+    {
+      "id": "bathroom",
+      "name": "Ванные & Гардеробные",
+      "icon": "sparkles"
+    }
+  ],
+  "items": [
+    {
+      "id": "vk-1891",
+      "source": "vk",
+      "category": "kitchen",
+      "categoryName": "Кухни",
+      "title": "Угловая графитовая кухня со скрытым пеналом и LED-профилем",
+      "description": "Индивидуальный проект с матовыми черными и белыми фасадами. Интегрированная контурная LED-подсветка потолка, бесшовная столешница под белый мрамор с мойкой подстольного монтажа. Скрытый пенал для двухконтурного котла.",
+      "specs": {
+        "facades": "МДФ в эмали Soft-Touch + Egger PerfectSense",
+        "hardware": "Blum Antaro с доводчиками плавного хода",
+        "countertop": "Влагостойкий HPL пластик 38 мм (декор Калакатта)",
+        "features": "Скрытый котел, профиль Gola без ручек, вытяжка скрытого монтажа",
+        "timeline": "14 рабочих дней"
+      },
+      "mainImage": "images/kitchen_black_white_led.jpg",
+      "images": [
+        "images/kitchen_black_white_led.jpg",
+        "images/kitchen_boiler_cabinet.jpg"
+      ],
+      "badge": "Свежий проект из VK",
+      "isVkPost": true,
+      "vkPostUrl": "https://vk.ru/wall137592086_1891",
+      "date": "2026-07-27",
+      "featured": true
+    },
+    {
+      "id": "vk-1890",
+      "source": "vk",
+      "category": "kitchen",
+      "categoryName": "Кухни",
+      "title": "L-образная кухня в нейтральных бежево-графитовых тонах",
+      "description": "Современное двухуровневое решение для квартиры с нишей под духовой шкаф и посудомоечную машину. Увеличенная полезная площадь рабочей зоны и встроенная светодиодная подсветка рабочей поверхности.",
+      "specs": {
+        "facades": "ЛДСП Egger Кашемир Серый + Графит",
+        "hardware": "Boyard B-Slide с доводчиками",
+        "countertop": "Постформинг 38 мм матовый кварц",
+        "features": "Открытая полка с розетками, закрытый цоколь с уплотнителем",
+        "timeline": "12 рабочих дней"
+      },
+      "mainImage": "images/kitchen_l_shape_beige_graphite.jpg",
+      "images": [
+        "images/kitchen_l_shape_beige_graphite.jpg"
+      ],
+      "badge": "Из VK",
+      "isVkPost": true,
+      "vkPostUrl": "https://vk.ru/wall137592086_1890",
+      "date": "2026-07-20",
+      "featured": true
+    },
+    {
+      "id": "vk-1889",
+      "source": "vk",
+      "category": "wardrobe",
+      "categoryName": "Шкафы-купе",
+      "title": "Трехдверный шкаф-купе в потолок с центральным зеркалом",
+      "description": "Вместительный встроенный шкаф-купе с геометрической раскладкой фасадов. Центральная створка — ударопрочное зеркало с пескоструйной обработкой, боковые створки — фактурное дерево Дуб Бардолино в черном алюминиевом профиле.",
+      "specs": {
+        "system": "Алюминиевая раздвижная система Aristo Slim в матовом черном цвете",
+        "facades": "Зеркало серебро с бронирующей пленкой + Egger Дуб",
+        "internal": "3 секции: штанги для длинной одежды, полки, 4 выдвижных ящика полного выдвижения",
+        "features": "Плавные доводчики на каждую створку, пылезащитный шлегель",
+        "timeline": "10 рабочих дней"
+      },
+      "mainImage": "images/wardrobe_coupe_3door_mirror.jpg",
+      "images": [
+        "images/wardrobe_coupe_3door_mirror.jpg"
+      ],
+      "badge": "Хит продаж VK",
+      "isVkPost": true,
+      "vkPostUrl": "https://vk.ru/wall137592086_1889",
+      "date": "2026-07-15",
+      "featured": true
+    },
+    {
+      "id": "bona-101",
+      "source": "catalog",
+      "category": "wardrobe",
+      "categoryName": "Шкафы-купе",
+      "title": "Шкаф-купе премиум «Закат» с комбинированным глянцем",
+      "description": "Стильный двухсекционный шкаф-купе для спальни или прихожей. Горизонтальное деление створок с чередованием глянцевых вставок и матовых панелей.",
+      "specs": {
+        "system": "Раздвижная система Modus черная анодировка",
+        "facades": "Lacobel черный глянец + ЛДСП Кроношпан",
+        "internal": "Пантограф, корзины для белья, подсветка полок",
+        "features": "Бесшумное скольжение роликов с тефлоновым покрытием",
+        "timeline": "14 рабочих дней"
+      },
+      "mainImage": "images/wardrobe_coupe_gloss.jpg",
+      "images": [
+        "images/wardrobe_coupe_gloss.jpg"
+      ],
+      "badge": "Премиум",
+      "isVkPost": false,
+      "date": "2026-06-10",
+      "featured": false
+    },
+    {
+      "id": "bona-102",
+      "source": "catalog",
+      "category": "wardrobe",
+      "categoryName": "Шкафы-купе",
+      "title": "Минималистичный шкаф-купе с ростовым зеркалом",
+      "description": "Практичное и строгое решение для интерьера в стиле сканди и модерн. Оптимизированное внутреннее пространство без мертвых зон.",
+      "specs": {
+        "system": "Aristo Стандарт серебро",
+        "facades": "Зеркало 4 мм + ЛДСП Белый платиновый",
+        "internal": "2 секции, усиленные полки толщиной 22 мм",
+        "features": "Антивибрационная фиксация дверей",
+        "timeline": "8 рабочих дней"
+      },
+      "mainImage": "images/wardrobe_coupe_minimal.jpg",
+      "images": [
+        "images/wardrobe_coupe_minimal.jpg"
+      ],
+      "badge": "Быстрый срок",
+      "isVkPost": false,
+      "date": "2026-06-05",
+      "featured": false
+    },
+    {
+      "id": "bona-103",
+      "source": "catalog",
+      "category": "hallway",
+      "categoryName": "Прихожие",
+      "title": "Входная группа с мягким пуфом и рейками из массива",
+      "description": "Многофункциональная прихожая с открытой вешалкой, обувницей с сиденьем в каретной стяжке, закрытым шкафом для сезонных курток и верхними антресолями.",
+      "specs": {
+        "facades": "МДФ тактильный софт-тач + рейки в тонировке Орех",
+        "hardware": "Boyard с петлями плавного закрывания 110°",
+        "upholstery": "Антивандальный велюр повышенной износостойкости",
+        "features": "Встроенная подсветка обувной ниши с датчиком движения",
+        "timeline": "15 рабочих дней"
+      },
+      "mainImage": "images/hallway_modern_loft.jpg",
+      "images": [
+        "images/hallway_modern_loft.jpg"
+      ],
+      "badge": "Авторский проект",
+      "isVkPost": false,
+      "date": "2026-05-28",
+      "featured": true
+    },
+    {
+      "id": "bona-104",
+      "source": "catalog",
+      "category": "hallway",
+      "categoryName": "Прихожие",
+      "title": "Консольная прихожая с подсветкой и парящей тумбой",
+      "description": "Визуально невесомая прихожая со скрытым монтажом на усиленные навесы Camar. Большое ростовое зеркало с теплой фоновой амбиент-подсветкой.",
+      "specs": {
+        "facades": "МДФ матовый шелк + скрытая ручка",
+        "hardware": "Hettich Sensys + скрытые направляющие Quadro",
+        "features": "Парящая конструкция для удобной уборки роботом-пылесосом",
+        "timeline": "11 рабочих дней"
+      },
+      "mainImage": "images/hallway_mirror_console.jpg",
+      "images": [
+        "images/hallway_mirror_console.jpg"
+      ],
+      "badge": "Удобно с роботом",
+      "isVkPost": false,
+      "date": "2026-05-15",
+      "featured": false
+    },
+    {
+      "id": "bona-105",
+      "source": "catalog",
+      "category": "kitchen",
+      "categoryName": "Кухни",
+      "title": "Кухня «Скандинавский массив» с текстурой теплого дуба",
+      "description": "Уютная семейная кухня с комбинированными фасадами. Нижний ярус и колонна для духового шкафа в теплой древесной текстуре, верхний ряд — чистый матовый белый цвет.",
+      "specs": {
+        "facades": "Синхропоры Egger Дуб Гамильтон + Белый премиум",
+        "hardware": "Blum Legrabox с магнитными замками",
+        "countertop": "Кедр влагостойкая 38 мм, кромка 2 мм PUR-клей",
+        "features": "Бутылочница Cargo, лоток для столовых приборов из бука",
+        "timeline": "14 рабочих дней"
+      },
+      "mainImage": "images/kitchen_wood_scandi.jpg",
+      "images": [
+        "images/kitchen_wood_scandi.jpg"
+      ],
+      "badge": "Топ выбор",
+      "isVkPost": false,
+      "date": "2026-05-02",
+      "featured": true
+    },
+    {
+      "id": "bona-106",
+      "source": "catalog",
+      "category": "kitchen",
+      "categoryName": "Кухни",
+      "title": "Прямая монохромная кухня под потолок со скрытой вытяжкой",
+      "description": "Безупречная симметрия для узких и вытянутых кухонных зон. Трехуровневая компоновка с антресолями максимальной вместимости.",
+      "specs": {
+        "facades": "AGT Supramat матовый серый",
+        "hardware": "GTV с доводчиками и отталкивателями Push-to-Open",
+        "countertop": "Искусственный камень акрил со встроенным плинтусом",
+        "features": "Отсутствие видимой фурнитуры, фасад под потолок",
+        "timeline": "13 рабочих дней"
+      },
+      "mainImage": "images/kitchen_monochrome_linear.jpg",
+      "images": [
+        "images/kitchen_monochrome_linear.jpg"
+      ],
+      "badge": "Строгий стиль",
+      "isVkPost": false,
+      "date": "2026-04-20",
+      "featured": false
+    },
+    {
+      "id": "bona-107",
+      "source": "catalog",
+      "category": "kids",
+      "categoryName": "Детские & Спальни",
+      "title": "Детский комплекс: рабочий стол, кровать и система хранения",
+      "description": "Эргономичная детская мебель, растущая вместе с ребенком. Рабочее место у окна с естественным освещением, вместительные пеналы для учебников и игрушек.",
+      "specs": {
+        "facades": "ЛДСП Egger класс эмиссии E0 (безопасно для детей)",
+        "hardware": "Петли с доводчиками и защитой от защемления пальчиков",
+        "safety": "Скругленные углы столешницы, травмобезопасные ручки",
+        "timeline": "15 рабочих дней"
+      },
+      "mainImage": "images/kids_room_custom.jpg",
+      "images": [
+        "images/kids_room_custom.jpg"
+      ],
+      "badge": "Безопасно E0",
+      "isVkPost": false,
+      "date": "2026-04-10",
+      "featured": true
+    },
+    {
+      "id": "bona-108",
+      "source": "catalog",
+      "category": "bathroom",
+      "categoryName": "Ванные & Гардеробные",
+      "title": "Гардеробная комната открытого типа с подсветкой полок",
+      "description": "Индивидуальная гардеробная комната под размер помещения. Отдельные зоны под длинные платья, мужские костюмы, ящики для украшений и обувные полки под наклоном.",
+      "specs": {
+        "facades": "Алюминиевая стоечно-ригельная система Aristo Wardrobe",
+        "lighting": "Накладной LED-профиль 3000K с датчиком присутствия",
+        "features": "Брючницы, галстучницы, ящики с бархатными органайзерами",
+        "timeline": "16 рабочих дней"
+      },
+      "mainImage": "images/wardrobe_walkin_luxury.jpg",
+      "images": [
+        "images/wardrobe_walkin_luxury.jpg"
+      ],
+      "badge": "Премиум комфорт",
+      "isVkPost": false,
+      "date": "2026-03-25",
+      "featured": false
+    },
+    {
+      "id": "bona-109",
+      "source": "catalog",
+      "category": "bathroom",
+      "categoryName": "Ванные & Гардеробные",
+      "title": "Влагостойкая подвесная тумба под раковину с зеркальным шкафом",
+      "description": "Мебель для санузла повышенной влажности. Столешница из акрилового камня со встроенной чашей раковины, вместительные ящики под стиральные принадлежности.",
+      "specs": {
+        "facades": "МДФ в эмали Milesi (Италия) с многослойным полиуретановым лаком",
+        "countertop": "Искусственный камень Samsung Staron",
+        "features": "100% влагостойкость, подвесная система на 150 кг",
+        "timeline": "10 рабочих дней"
+      },
+      "mainImage": "images/bathroom_cabinet_sink.jpg",
+      "images": [
+        "images/bathroom_cabinet_sink.jpg"
+      ],
+      "badge": "100% влагостойко",
+      "isVkPost": false,
+      "date": "2026-03-12",
+      "featured": false
+    }
+  ]
+}

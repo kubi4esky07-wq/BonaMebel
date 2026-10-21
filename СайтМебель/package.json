@@ -1,0 +1,20 @@
+{
+  "name": "bona-mebel-site",
+  "version": "1.0.0",
+  "description": "Современный минималистичный сайт BoNa Mebel с эффектом Liquid Glass и автономной синхронизацией фото из VK drozdova_natasha каждые 60 минут",
+  "main": "server/sync-agent.js",
+  "scripts": {
+    "start": "node server/sync-agent.js",
+    "dev": "node server/sync-agent.js",
+    "sync": "node -e \"require('./server/sync-agent.js').runSyncCycle()\""
+  },
+  "keywords": [
+    "furniture",
+    "bona",
+    "liquid-glass",
+    "vk-sync",
+    "kursk"
+  ],
+  "author": "BoNa Mebel",
+  "license": "ISC"
+}
